@@ -1,0 +1,43 @@
+body{
+  font-family: "Montserrat";
+  scroll-behavior: smooth;
+}
+
+.main-header{
+  font-weight: bolder;
+  font-size: 2.5em;
+  color: #4d0000;
+}
+
+/* cursor */
+.txt-type > .txt{
+    border-right: 0.2rem solid #808080;
+}
+
+.border{
+  width: 80%;
+  margin-top: 5%;
+  height: 5px;
+  background-color: #ffc012;
+}
+
+.title-text{
+  font-weight: 500;
+  font-size: 1.5em;
+}
+
+.myself-short{
+  font-weight: 500;
+  font-size: 1.15em;
+}
+
+.mywork-btn{
+  border-radius: 1em;
+  background-color: #4d0000;
+  color: #fff;
+  padding: 0.5em 1em 0.5em 1em;
+}
+
+.design-header{
+  margin-top: 25%;
+}
