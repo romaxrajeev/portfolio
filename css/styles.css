@@ -18,6 +18,7 @@ body{
   width: 80%;
   margin-top: 5%;
   height: 5px;
+  border: none  !important;
   background-color: #ffc012;
 }
 
