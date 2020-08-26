@@ -65,6 +65,7 @@ function init()
 
 }
 $(document).ready(function(){
+    AOS.init();
 // Smooth scroll for links with hashes
 $('a.smooth-scroll')
 .click(function(event) {
