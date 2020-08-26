@@ -57,3 +57,9 @@ body{
   text-align: center;
   text-decoration: none;
 }
+
+.header-text{
+  margin-left: 2%;
+  font-size: 17px;
+  text-align: justify;
+}
