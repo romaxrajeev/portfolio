@@ -42,3 +42,18 @@ body{
 .design-header{
   margin-top: 25%;
 }
+
+.contact-details{
+  font-size: 2em;
+  font-weight: bolder;
+  color: #ffc012;
+  text-align: center;
+}
+
+.dropmail{
+  font-weight: 500;
+  font-size: 1em;
+  color: #fff;
+  text-align: center;
+  text-decoration: none;
+}
