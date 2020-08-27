@@ -63,3 +63,26 @@ body{
   font-size: 17px;
   text-align: justify;
 }
+
+.poster-text{
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  color: #fff;
+  font-weight: bolder;
+  font-size: 1.5em;
+  visibility: hidden;
+  opacity: 0;
+  transition: opacity .2s, visibility .2s;
+}
+
+.img_wrap{
+  position: relative;
+  height: 200px;
+  width: 200px;
+}
+.img_wrap:hover .poster-text{
+  visibility: visible;
+  opacity: 1;
+}
+
