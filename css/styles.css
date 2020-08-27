@@ -86,3 +86,7 @@ body{
   opacity: 1;
 }
 
+.poster{
+  width: 200px;
+  height: 200px;
+}
