@@ -107,3 +107,10 @@ ul.data li::before {
   width: 1em; /* Also needed for space (tweak if needed) */
   margin-left: -1em; /* Also needed for space (tweak if needed) */
 }
+
+.card-header{
+  background-color: #ffc012;
+  color: #000;
+  font-weight: 600;
+  font-size: 17px;
+}
